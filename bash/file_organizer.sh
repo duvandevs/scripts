@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 #
-# Script sencillo para organizar archivos por extensión en carpetas separadas.
+# Script sencillo para organizar archivos por extensión en carpetas separadas en Linux.
 # Ejemplo: fotos.jpg -> carpeta "jpg/", documentos.pdf -> carpeta "pdf/"
 #
 # Opciones:
